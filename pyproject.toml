@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mummie"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.26",
+  "openpyxl>=3.1",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["MuMMIE/mummie"]
