@@ -6,12 +6,12 @@ import pandas as pd
 
 api_key = os.environ.get("CEREBRAS_API_KEY")
 
-configure_lm(provider="cerebras", model="qwen-3-32b", api_key=api_key, max_tokens=8192, temperature=0.3, timeout=30.0, top_p=0.90)
-agent = MummieAgent(use_chain_of_thought=True)
+configure_lm(provider="cerebras", model="qwen-3-235b-a22b-thinking-2507", api_key=api_key, max_tokens=8192, temperature=0.3, timeout=30.0, top_p=0.90)
+agent = MummieAgent(use_chain_of_thought=False)
 
-reader = PdfReader("../data/pdf/US1304623.pdf")
+reader = PdfReader("../data/pdf/US20010014424A1.pdf")
 
-total_responce = []
+total_responce = {}
 for i, page in enumerate(reader.pages):
     text = page.extract_text() or ""
     snippet = text # keep prompt small
@@ -20,13 +20,13 @@ for i, page in enumerate(reader.pages):
         If something is not parse properly in the PDF, return the best guess of the composition."
     prompt = f"Page text:\n{snippet}\n\nQuestion: {question}"
     raw_answer = agent.ask(question=prompt)
-    total_responce.append(raw_answer)
+    total_responce[i] = raw_answer
     print(f"Page {i+1}: {raw_answer}")
 
 with open("total_responce.json", "w") as f:
     json.dump(total_responce, f)
 
-df = pd.read_excel('../data/excel/US1304623_table-24764.xlsx')
+df = pd.read_excel('../data/excel/US2009239122A1_table-30659.xlsx')
 column_dict = dict()
 mapper = dict()
 columns = df.columns.tolist()
@@ -44,6 +44,6 @@ for k,v in zip(df.iloc[idx0], df.iloc[idx1]):
 dff = df.iloc[idx:,:]
 dff.columns = df.iloc[idx]
 dff = dff.iloc[1:,:]
-column_dict['US1304623_table-24764'] = dff.columns.tolist()
+# column_dict['CN1308591_table-24104'] = dff.columns.tolist()
 
 print(dff.head())
