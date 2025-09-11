@@ -10,7 +10,9 @@ dependencies = [
   "pandas>=2.1",
   "numpy>=1.26",
   "openpyxl>=3.1",
+  "dspy-ai",
+  "requests>=2.31"
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["MuMMIE/mummie"]
+packages = ["mummie"]
