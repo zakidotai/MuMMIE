@@ -1,0 +1,141 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BREVET D'INVENTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.0703125,
+          47.9483642578125
+        ],
+        [
+          499.82997481108316,
+          47.23597506678539
+        ],
+        [
+          499.82997481108316,
+          73.0274658203125
+        ],
+        [
+          237.0703125,
+          73.0274658203125
+        ]
+      ]
+    },
+    {
+      "title": "R\u00c9SUM\u00c9.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          403.8330078125,
+          100.47016918967051
+        ],
+        [
+          443.3447265625,
+          100.47016918967051
+        ],
+        [
+          443.3447265625,
+          109.97802734375
+        ],
+        [
+          403.8330078125,
+          109.97802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          175
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Text",
+          27
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FR_1027316_A"
+}
