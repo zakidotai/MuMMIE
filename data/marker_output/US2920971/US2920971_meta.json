@@ -1,0 +1,564 @@
+{
+  "table_of_contents": [
+    {
+      "title": "United States Patent Office 2,920,971",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.960025787353516,
+          60.011962890625
+        ],
+        [
+          486.9867248535156,
+          60.011962890625
+        ],
+        [
+          486.9867248535156,
+          95.54345703125
+        ],
+        [
+          36.960025787353516,
+          95.54345703125
+        ]
+      ]
+    },
+    {
+      "title": "Patented Jan. 12, 1960",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          366.24005126953125,
+          63.4569091796875
+        ],
+        [
+          488.280029296875,
+          63.4569091796875
+        ],
+        [
+          488.280029296875,
+          94.265625
+        ],
+        [
+          366.24005126953125,
+          94.265625
+        ]
+      ]
+    },
+    {
+      "title": "1 \n2,920,971",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.31999206542969,
+          161.596435546875
+        ],
+        [
+          164.05331420898438,
+          161.596435546875
+        ],
+        [
+          164.05331420898438,
+          192.442626953125
+        ],
+        [
+          124.31999206542969,
+          192.442626953125
+        ]
+      ]
+    },
+    {
+      "title": "METHOD OF MAKING CERAMICS AND \nPRODUCT THEREOF",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.170654296875,
+          194.814208984375
+        ],
+        [
+          234.304443359375,
+          194.814208984375
+        ],
+        [
+          234.304443359375,
+          214.54638671875
+        ],
+        [
+          53.170654296875,
+          214.54638671875
+        ]
+      ]
+    },
+    {
+      "title": "21 Claims. (CI. 106-39)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.40000915527344,
+          271.80126953125
+        ],
+        [
+          195.15431213378906,
+          271.80126953125
+        ],
+        [
+          195.15431213378906,
+          282.22705078125
+        ],
+        [
+          92.40000915527344,
+          282.22705078125
+        ]
+      ]
+    },
+    {
+      "title": "(3BeO AlO 6SiO)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          141.69775390625,
+          224.67041015625
+        ],
+        [
+          225.31199645996094,
+          224.67041015625
+        ],
+        [
+          225.31199645996094,
+          235.2711181640625
+        ],
+        [
+          141.69775390625,
+          235.2711181640625
+        ]
+      ]
+    },
+    {
+      "title": "References Cited in the file of this patent",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.0654296875,
+          322.52685546875
+        ],
+        [
+          462.84002685546875,
+          322.52685546875
+        ],
+        [
+          462.84002685546875,
+          332.5542297363281
+        ],
+        [
+          304.0654296875,
+          332.5542297363281
+        ]
+      ]
+    },
+    {
+      "title": "UNITED STATES PATENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          320.3837890625,
+          336.42279052734375
+        ],
+        [
+          446.5791015625,
+          336.42279052734375
+        ],
+        [
+          446.5791015625,
+          346.1561279296875
+        ],
+        [
+          320.3837890625,
+          346.1561279296875
+        ]
+      ]
+    },
+    {
+      "title": "FOREIGN PATENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          337.44000244140625,
+          459.7255859375
+        ],
+        [
+          428.8457336425781,
+          459.7255859375
+        ],
+        [
+          428.8457336425781,
+          470.1300964355469
+        ],
+        [
+          337.44000244140625,
+          470.1300964355469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          79
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          657
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          202
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          200
+        ],
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/US2920971"
+}

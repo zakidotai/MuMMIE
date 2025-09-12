@@ -1,0 +1,278 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BREVET D'INVENTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          243.4619140625,
+          42.26959228515625
+        ],
+        [
+          503.7744140625,
+          42.26959228515625
+        ],
+        [
+          503.7744140625,
+          72.56494140625
+        ],
+        [
+          243.4619140625,
+          72.56494140625
+        ]
+      ]
+    },
+    {
+      "title": "[1.242.292]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          101.91435768261965,
+          43.48708815672306
+        ],
+        [
+          157.320556640625,
+          43.48708815672306
+        ],
+        [
+          157.320556640625,
+          54.166748046875
+        ],
+        [
+          101.91435768261965,
+          54.166748046875
+        ]
+      ]
+    },
+    {
+      "title": "[1.242.292]",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          98.91687657430731,
+          43.48708815672306
+        ],
+        [
+          153.3984375,
+          43.48708815672306
+        ],
+        [
+          153.3984375,
+          54.372314453125
+        ],
+        [
+          98.91687657430731,
+          54.372314453125
+        ]
+      ]
+    },
+    {
+      "title": "R\u00c9SUM\u00c9",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          402.411838790932,
+          57.455810546875
+        ],
+        [
+          438.6962890625,
+          57.455810546875
+        ],
+        [
+          438.6962890625,
+          67.117431640625
+        ],
+        [
+          402.411838790932,
+          67.117431640625
+        ]
+      ]
+    },
+    {
+      "title": "Soci\u00e9t\u00e9 dite : CORNING GLASS WORKS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          344.7103274559194,
+          350.89581478183436
+        ],
+        [
+          491.86279296875,
+          350.89581478183436
+        ],
+        [
+          491.86279296875,
+          361.796875
+        ],
+        [
+          344.7103274559194,
+          361.796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          151
+        ],
+        [
+          "Span",
+          109
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          298
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          217
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FR_1242292_A"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "[{'MgO': 15.1, 'Al2O3': 32.7, 'SiO2': 52.2}, {'thermal_expansion': [{'value': 1.08, 'unit': 'ppm/K', 'experimental_conditions': '20-500\u00b0C'}], 'log_rho': [{'value': 10.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': '400\u00b0C'}]}]",
+  "raw": "[{'MgO': 15.1, 'Al2O3': 32.7, 'SiO2': 52.2}, {'thermal_expansion': [{'value': 1.08, 'unit': 'ppm/K', 'experimental_conditions': '20-500\u00b0C'}], 'log_rho': [{'value': 10.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': '400\u00b0C'}]}]"
+}

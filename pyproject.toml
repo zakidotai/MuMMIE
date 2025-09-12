@@ -12,6 +12,7 @@ dependencies = [
   "openpyxl>=3.1",
   "dspy-ai",
   "requests>=2.31",
+  "pydantic>=2.7",
   "pdf2image",
   "pypdf>=4.0",
 ]
