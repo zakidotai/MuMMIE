@@ -1,0 +1,244 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNITED STATES PATENT OFFICE.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.1142578125,
+          147.683349609375
+        ],
+        [
+          431.892578125,
+          147.683349609375
+        ],
+        [
+          431.892578125,
+          167.054931640625
+        ],
+        [
+          57.1142578125,
+          167.054931640625
+        ]
+      ]
+    },
+    {
+      "title": "RALPH F. BRENNER, OF BOCHESTER, PENNSYLVANIA, ASSIGNOR TO H. C. FRY GLASS\nCOMPANY, OF BOCHESTER, PENNSYLVANIA, A CORPORATION OF PENNSYLVANIA.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98384925975774,
+          179.9450045829514
+        ],
+        [
+          448.48291015625,
+          179.9450045829514
+        ],
+        [
+          448.48291015625,
+          200.30615234375
+        ],
+        [
+          35.98384925975774,
+          200.9385884509624
+        ]
+      ]
+    },
+    {
+      "title": "HEAT-RESISTING GLASS.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.31787109375,
+          209.18606782768103
+        ],
+        [
+          302.70556640625,
+          209.18606782768103
+        ],
+        [
+          302.70556640625,
+          218.67919921875
+        ],
+        [
+          180.31787109375,
+          218.67919921875
+        ]
+      ]
+    },
+    {
+      "title": "No Drawing.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98384925975774,
+          229.42988084326305
+        ],
+        [
+          87.439208984375,
+          229.42988084326305
+        ],
+        [
+          87.439208984375,
+          238.4501953125
+        ],
+        [
+          35.98384925975774,
+          238.4501953125
+        ]
+      ]
+    },
+    {
+      "title": "RALPH F. BRENNER.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          326.3671875,
+          377.13473877176904
+        ],
+        [
+          447.6669921875,
+          377.13473877176904
+        ],
+        [
+          447.6669921875,
+          387.0322265625
+        ],
+        [
+          326.3671875,
+          387.0322265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/US1623301"
+}
