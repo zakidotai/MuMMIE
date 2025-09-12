@@ -3,11 +3,13 @@ import json
 from pypdf import PdfReader
 from mummie import configure_lm, MummieAgent
 import pandas as pd
+from mummie.prompts import compostion_property_prompt
+
 
 api_key = os.environ.get("CEREBRAS_API_KEY")
 
-configure_lm(provider="cerebras", model="qwen-3-235b-a22b-thinking-2507", api_key=api_key, max_tokens=8192, temperature=0.3, timeout=30.0, top_p=0.90)
-agent = MummieAgent(use_chain_of_thought=False)
+configure_lm(provider="cerebras", model="qwen-3-32b", api_key=api_key, max_tokens=8192, temperature=0.3, timeout=30.0, top_p=0.90)
+agent = MummieAgent(use_chain_of_thought=True)
 
 reader = PdfReader("../data/pdf/US20010014424A1.pdf")
 
@@ -15,9 +17,7 @@ total_responce = {}
 for i, page in enumerate(reader.pages):
     text = page.extract_text() or ""
     snippet = text # keep prompt small
-    question = "Give me a list of compositions if they are mentioned in the page if not return empty list. \
-        The compsition list should be of the type list[dict[str, float]]. Make sure they are realistic compositions containing real elements. \
-        If something is not parse properly in the PDF, return the best guess of the composition."
+    question = compostion_property_prompt
     prompt = f"Page text:\n{snippet}\n\nQuestion: {question}"
     raw_answer = agent.ask(question=prompt)
     total_responce[i] = raw_answer

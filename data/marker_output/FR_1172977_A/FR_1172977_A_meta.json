@@ -1,0 +1,193 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BREVET D'INVENTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          240.26611328125,
+          42.11541748046875
+        ],
+        [
+          502.32177734375,
+          42.11541748046875
+        ],
+        [
+          502.32177734375,
+          71.228759765625
+        ],
+        [
+          240.26611328125,
+          71.228759765625
+        ]
+      ]
+    },
+    {
+      "title": "[1.172.977]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          101.91435768261965,
+          42.73731077471059
+        ],
+        [
+          157.611083984375,
+          42.73731077471059
+        ],
+        [
+          157.611083984375,
+          53.1903076171875
+        ],
+        [
+          101.91435768261965,
+          53.1903076171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          146
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          185
+        ],
+        [
+          "Span",
+          121
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          167
+        ],
+        [
+          "Span",
+          141
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          122
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FR_1172977_A"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": null,
+  "error": "Adapter JSONAdapter failed to parse the LM response. \n\nLM Response: {\"composition\": {\"ZnO\": 59.2, \"B2O3\": 20.8, \"SiO2\": 17.9, \"Al2O3\": 2.1}, \"properties\": {\"transition_temperature\": [{\"value\": 550, \"unit\": \"\u00b0C\"}], \"thermal_expansion\": [{\"value\": 4.51, \"unit\": \"1e-6 K^-1\", \"experimental_conditions\": \"20-300\u00b0C\"}]}} \n\nExpected to find output fields in the LM response: [answer] \n\nActual output fields parsed from the LM response: [] \n\n"
+}
