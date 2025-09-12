@@ -17,12 +17,10 @@ md_filepath = os.path.join('../data/marker_output', base_name, md_filename)
 with open(md_filepath, 'r') as f:
     text = f.read()
 detailed_prompt="""Give me a list of compositions if they are mentioned in the text. If not, return an empty list.
-#The output should be a JSON object with a single key "answer".
-#The value of "answer" should be a list of dictionaries, where each dictionary represents a composition, like this: `{"answer": [{"element1": value1, "element2": value2}, ...]}`.
-#Make sure they are realistic compositions containing real elements.
-#If something is not parsed properly in the PDF, return the best guess of the composition.
-#Your response should only be the JSON object.
-#"""
+The output should be a JSON object with a single key "answer".
+The value of "answer" should be a list of dictionaries, where each dictionary represents a composition, like this: `{"answer": [{"element1": value1, "element2": value2}, ...]}`.
+Make sure they are realistic compositions containing real elements. If something is not parsed properly in the PDF, return the best guess of the composition.
+Your response should only be the JSON object."""
 snippet = text # keep prompt small ##update the question
 question = detailed_prompt
 prompt = f"text:\n{snippet}\n\nQuestion: {question}"
