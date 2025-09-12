@@ -1,0 +1,4 @@
+{
+  "answer": null,
+  "error": "400 Client Error: Bad Request for url: https://api.cerebras.ai/v1/chat/completions"
+}

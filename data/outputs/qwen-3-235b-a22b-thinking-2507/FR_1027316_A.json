@@ -1,0 +1,4 @@
+{
+  "answer": "[[{'P2O5': 16, 'B2O3': 39, 'Al2O3': 23, 'CaO': 5, 'MgO': 12, 'SiO2': 5}, {'thermal_expansion': [{'value': 5.0, 'unit': '1/\u00b0C', 'experimental_conditions': ''}]}], [{'SiO2': 66, 'Al2O3': 2, 'B2O3': 24, 'Na2O+K2O': 8}, {}]]",
+  "raw": "[[{'P2O5': 16, 'B2O3': 39, 'Al2O3': 23, 'CaO': 5, 'MgO': 12, 'SiO2': 5}, {'thermal_expansion': [{'value': 5.0, 'unit': '1/\u00b0C', 'experimental_conditions': ''}]}], [{'SiO2': 66, 'Al2O3': 2, 'B2O3': 24, 'Na2O+K2O': 8}, {}]]"
+}

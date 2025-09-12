@@ -1,0 +1,4 @@
+{
+  "answer": "[{'SiO2': 57.17, 'Al2O3': 34.14, 'Li2O': 1.82, 'Na2O': 0.44, 'K2O': 0.15, 'P2O5': 1.63, 'MgO': 0.92, 'ZnO': 0.7, 'ZrO2': 1.76, 'SnO2': 1.08, 'F-': 0.19}, {'thermal_expansion': [{'value': 4.16, 'unit': '1e-6/K', 'experimental_conditions': '20-300\u00b0C'}], 'Tg': [{'value': 645, 'unit': '\u00b0C'}], 'density': [{'value': 2.406, 'unit': 'g/cm\u00b3'}], 'T4': [{'value': 1307, 'unit': 'dPa\u00b7s'}], 'elasticity': [{'value': 85, 'unit': 'GPa'}]}]",
+  "raw": "[{'SiO2': 57.17, 'Al2O3': 34.14, 'Li2O': 1.82, 'Na2O': 0.44, 'K2O': 0.15, 'P2O5': 1.63, 'MgO': 0.92, 'ZnO': 0.7, 'ZrO2': 1.76, 'SnO2': 1.08, 'F-': 0.19}, {'thermal_expansion': [{'value': 4.16, 'unit': '1e-6/K', 'experimental_conditions': '20-300\u00b0C'}], 'Tg': [{'value': 645, 'unit': '\u00b0C'}], 'density': [{'value': 2.406, 'unit': 'g/cm\u00b3'}], 'T4': [{'value': 1307, 'unit': 'dPa\u00b7s'}], 'elasticity': [{'value': 85, 'unit': 'GPa'}]}]"
+}

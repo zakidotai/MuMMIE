@@ -1,0 +1,4 @@
+{
+  "answer": "[{'SiO2': 51.4, 'Al2O3': 34.5, 'MgO': 14.1, 'TiO2': 8.0}, {'thermal_expansion': [{'value': 14.1, 'unit': '1e-7 /\u00b0C', 'experimental_conditions': 'after crystallization'}], 'density': [{'value': 2.62, 'unit': 'g/cm\u00b3'}], 'deformation_temperature': [{'value': 1370, 'unit': '\u00b0C'}], 'strength': [{'value': 37500, 'unit': 'psi'}]}]",
+  "raw": "[{'SiO2': 51.4, 'Al2O3': 34.5, 'MgO': 14.1, 'TiO2': 8.0}, {'thermal_expansion': [{'value': 14.1, 'unit': '1e-7 /\u00b0C', 'experimental_conditions': 'after crystallization'}], 'density': [{'value': 2.62, 'unit': 'g/cm\u00b3'}], 'deformation_temperature': [{'value': 1370, 'unit': '\u00b0C'}], 'strength': [{'value': 37500, 'unit': 'psi'}]}]"
+}
