@@ -3,12 +3,27 @@ import json
 from mummie import configure_lm, MummieAgent
 from mummie.prompts import compostion_property_prompt
 import pandas as pd
+import time
+
+prompt_mapper_extraction = {
+    'α*1E7, K-1： Thermal expansion coefficient temp.range, °C： Temperature range': 'CTE',
+    'Glass transition temperature': 'Tg',
+    'Density': 'rho',
+    'T, °C： Temperature log(η, P)： η: Viscosity': 'T_η',
+    "E: Young's modulus": "E",
+    'Thermal expansion coefficient': 'CTE',
+    'Refractive index': 'n',
+    'H: Microhardness': 'H',
+    'Crystallization temperature': 'Tx',
+    'τ, %： Transmittance λ, nm： Wavelength': 'τ',
+    'Liquidus temperature': 'Tl'
+}
+
 
 api_key = os.environ.get("CEREBRAS_API_KEY")
 #api_key = os.environ.get("OPENAI_API_KEY")
-
-#model_name = 'qwen-3-235b-a22b-thinking-2507'
-model_name = 'llama-4-maverick-17b-128e-instruct'
+model_name = 'qwen-3-235b-a22b-thinking-2507'
+#model_name = 'llama-4-maverick-17b-128e-instruct'
 
 #model_name = 'gpt-oss-120b'
 #model_name = 'qwen-3-32b'
@@ -18,7 +33,7 @@ configure_lm(provider="cerebras", model=model_name, api_key=api_key, max_tokens=
 agent = MummieAgent(use_chain_of_thought=False)
 
 minipdf_dir = '../data/pdf'
-output_dir = '../data/output'
+output_dir = '../data/output_normalized_prop'
 
 
 
@@ -33,6 +48,7 @@ for pdf_filename in pdf_files:
     json_path = os.path.join(output_json_dir, f'{base_name}.json')
     # Skip if output already exists
     if os.path.exists(json_path):
+
         print(f"Output already exists for {pdf_filename}, skipping.")
         continue
     try:
@@ -47,10 +63,22 @@ for pdf_filename in pdf_files:
     detailed_prompt = """
         Give me a list of compositions and material properties if they are mentioned in the text. If not, return an empty list.
 
-        IMPORTANT: Your output MUST be a valid JSON object with a single key 'answer'.
-        The value of 'answer' MUST be a list of tuples, where each tuple contains:
+        IMPORTANT: Only extract and include the following standardized material property keys (use these exact names):
+        - CTE (thermal expansion coefficient)
+        - Tg (glass transition temperature)
+        - rho (density)
+        - T_η (temperature for viscosity)
+        - E (Young's modulus)
+        - n (refractive index)
+        - H (microhardness)
+        - Tx (crystallization temperature)
+        - τ (transmittance)
+        - Tl (liquidus temperature)
+
+        Your output MUST be a valid JSON object with a single key 'answer'.
+        The value of 'answer' MUST be a list of lists, where each inner list contains:
         - a dictionary representing a composition (e.g. {"SiO2": 50, "Al2O3": 50})
-        - a dictionary of material properties (e.g. {"thermal_expansion": [{"value": 5, "unit": "W/mK", "experimental_conditions": "300K"}]})
+        - a dictionary of material properties (e.g. {"CTE (thermal expansion coefficient)": [{"value": 5, "unit": "W/mK", "experimental_conditions": "300K"}]})
 
         Make sure they are realistic compositions containing real elements. Check the consistency of units and make sure these are physical units.
         If something is not parsed properly in the PDF, return your best guess in the required format.
@@ -60,9 +88,9 @@ for pdf_filename in pdf_files:
 
         Here is an example of the output:
         {"answer": [
-            ({"SiO2": 50, "Al2O3": 50}, {"thermal_expansion": [{"value": 5, "unit": "W/mK", "experimental_conditions": "300K"}, {"value": 2.5, "unit": "W/mK", "experimental_conditions": "500K"}]}),
-            ({"SiO2": 50, "Al2O3": 25, "MgO": 25}, {"viscosity": [{"value": 1e12, "unit": "Pa.s", "experimental_conditions": ""}]}),
-            ({"Si": 50, "Na2O": 25, "K2O": 25}, {})
+            [{"SiO2": 50, "Al2O3": 50}, {"CTE (thermal expansion coefficient)": [{"value": 5, "unit": "W/mK", "experimental_conditions": "300K"}, {"value": 2.5, "unit": "W/mK", "experimental_conditions": "500K"}]}],
+            [{"SiO2": 50, "Al2O3": 25, "MgO": 25}, {"rho (density)": [{"value": 2.5, "unit": "g/cm3", "experimental_conditions": ""}]}],
+            [{"Si": 50, "Na2O": 25, "K2O": 25}, {}]
         ]}
         """
     snippet = text
@@ -104,6 +132,7 @@ for pdf_filename in pdf_files:
         raw_answer = agent.ask(question=prompt)
         print(f"Response for {pdf_filename}: {raw_answer}")
         processed_answer = extract_json_answer(raw_answer)
+        time.sleep(2)
     except Exception as e:
         print(f"Error processing {pdf_filename}: {e}")
         processed_answer = {"answer": None, "error": str(e)}
