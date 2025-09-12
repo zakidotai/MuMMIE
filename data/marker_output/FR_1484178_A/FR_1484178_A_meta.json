@@ -1,0 +1,550 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MINIST\u00c8RE DE L'INDUSTRIE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.94206549118388,
+          53.23419412288513
+        ],
+        [
+          218.81612090680102,
+          53.23419412288513
+        ],
+        [
+          218.81612090680102,
+          65.3701171875
+        ],
+        [
+          68.94206549118388,
+          65.3701171875
+        ]
+      ]
+    },
+    {
+      "title": "EXEMPLE I",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          379.71923828125,
+          237.6794300979519
+        ],
+        [
+          427.1410579345088,
+          237.6794300979519
+        ],
+        [
+          427.1410579345088,
+          247.70751953125
+        ],
+        [
+          379.71923828125,
+          247.70751953125
+        ]
+      ]
+    },
+    {
+      "title": "Composition",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          377.6826196473552,
+          255.6740872662511
+        ],
+        [
+          429.3891687657431,
+          255.6740872662511
+        ],
+        [
+          429.3891687657431,
+          266.0029296875
+        ],
+        [
+          377.6826196473552,
+          266.0029296875
+        ]
+      ]
+    },
+    {
+      "title": "TABLEAU I",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          170.10705289672546,
+          107.96794300979519
+        ],
+        [
+          218.18603515625,
+          107.96794300979519
+        ],
+        [
+          218.18603515625,
+          118.46482635796971
+        ],
+        [
+          170.10705289672546,
+          118.46482635796971
+        ]
+      ]
+    },
+    {
+      "title": "Type silice-alumine-oxyde de titane\n(Pourcentage molaire)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          117.66357421875,
+          125.96260017809439
+        ],
+        [
+          271.64306640625,
+          127.46215494211931
+        ],
+        [
+          271.64306640625,
+          152.2048085485307
+        ],
+        [
+          117.66357421875,
+          152.2048085485307
+        ]
+      ]
+    },
+    {
+      "title": "(Voir tableau III, colonne ci-contre)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          113.90428211586902,
+          621.5654496883348
+        ],
+        [
+          269.89990234375,
+          621.5654496883348
+        ],
+        [
+          269.89990234375,
+          632.0623330365094
+        ],
+        [
+          113.90428211586902,
+          632.0623330365094
+        ]
+      ]
+    },
+    {
+      "title": "TABLEAU III",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          392.6700251889169,
+          122.21371326803205
+        ],
+        [
+          447.412109375,
+          122.21371326803205
+        ],
+        [
+          447.412109375,
+          133.00146484375
+        ],
+        [
+          392.6700251889169,
+          133.00146484375
+        ]
+      ]
+    },
+    {
+      "title": "Type\nsilice-oxyde borique-alumine-oxyde de titane",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          325.10009765625,
+          140.95814781834372
+        ],
+        [
+          514.0680100755668,
+          140.95814781834372
+        ],
+        [
+          514.0680100755668,
+          170.41455078125
+        ],
+        [
+          325.10009765625,
+          170.41455078125
+        ]
+      ]
+    },
+    {
+      "title": "(Voir tableau IV et V, page suivante)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          333.4697732997481,
+          567.5814781834372
+        ],
+        [
+          499.1259765625,
+          567.5814781834372
+        ],
+        [
+          499.1259765625,
+          579.2861328125
+        ],
+        [
+          333.4697732997481,
+          579.2861328125
+        ]
+      ]
+    },
+    {
+      "title": "[1.484.178]",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          98.16750629722922,
+          43.48708815672306
+        ],
+        [
+          153.9794921875,
+          43.48708815672306
+        ],
+        [
+          153.9794921875,
+          54.6806640625
+        ],
+        [
+          98.16750629722922,
+          54.6806640625
+        ]
+      ]
+    },
+    {
+      "title": "R\u00c9SUM\u00c9",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          175.333251953125,
+          56.98308103294746
+        ],
+        [
+          209.324951171875,
+          56.98308103294746
+        ],
+        [
+          209.324951171875,
+          66.7576904296875
+        ],
+        [
+          175.333251953125,
+          66.7576904296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          195
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          28
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          158
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          105
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "TableCell",
+          59
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          214
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          300
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "Table",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FR_1484178_A"
+}
