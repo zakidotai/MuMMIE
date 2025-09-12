@@ -2,7 +2,6 @@ import os
 import json
 from mummie import configure_lm, MummieAgent
 import pandas as pd
-import subprocess
 
 api_key = os.environ.get("CEREBRAS_API_KEY")
 
