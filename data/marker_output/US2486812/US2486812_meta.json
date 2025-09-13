@@ -1,0 +1,272 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNITED STATES PATENT OFFICE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.71630859375,
+          137.897705078125
+        ],
+        [
+          403.87939453125,
+          131.9596700274977
+        ],
+        [
+          403.87939453125,
+          157.069580078125
+        ],
+        [
+          36.71630859375,
+          159.7011915673694
+        ]
+      ]
+    },
+    {
+      "title": "2,486,812",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          196.3642578125,
+          164.94958753437214
+        ],
+        [
+          240.69580078125,
+          164.19981668194316
+        ],
+        [
+          240.69580078125,
+          175.7421875
+        ],
+        [
+          196.3642578125,
+          175.7421875
+        ]
+      ]
+    },
+    {
+      "title": "CERAMIC BODIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.4199192462988,
+          180.035888671875
+        ],
+        [
+          260.1332436069987,
+          177.69569202566453
+        ],
+        [
+          260.88290713324363,
+          188.223876953125
+        ],
+        [
+          178.4199192462988,
+          188.94225481209898
+        ]
+      ]
+    },
+    {
+      "title": "6 Claims. (Cl. 106-47)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          171.67294751009422,
+          253.82763671875
+        ],
+        [
+          271.4287109375,
+          253.82763671875
+        ],
+        [
+          271.4287109375,
+          262.4197983501375
+        ],
+        [
+          171.67294751009422,
+          262.4197983501375
+        ]
+      ]
+    },
+    {
+      "title": "WOLDEMAR A. WEYL.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          425.0592193808883,
+          500.8469294225481
+        ],
+        [
+          528.71484375,
+          504.060546875
+        ],
+        [
+          528.71484375,
+          514.3428047662695
+        ],
+        [
+          425.0592193808883,
+          512.048828125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES CITED",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          383.75341796875,
+          517.3418881759853
+        ],
+        [
+          480.57568359375,
+          519.5912007332722
+        ],
+        [
+          480.57568359375,
+          528.5884509624198
+        ],
+        [
+          383.07806191117095,
+          527.6259765625
+        ]
+      ]
+    },
+    {
+      "title": "UNITED STATES PATENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          365.80322265625,
+          552.5811182401467
+        ],
+        [
+          494.17431640625,
+          555.5802016498625
+        ],
+        [
+          494.17431640625,
+          564.57745187901
+        ],
+        [
+          365.80322265625,
+          563.5732421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/US2486812"
+}

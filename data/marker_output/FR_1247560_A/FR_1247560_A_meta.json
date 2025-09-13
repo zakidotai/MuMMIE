@@ -1,0 +1,301 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BREVET D'INVENTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          288.507556675063,
+          88.8560791015625
+        ],
+        [
+          550.83984375,
+          88.8560791015625
+        ],
+        [
+          550.83984375,
+          114.50048828125
+        ],
+        [
+          288.507556675063,
+          114.50048828125
+        ]
+      ]
+    },
+    {
+      "title": "Soci\u00e9t\u00e9 dite : PITTSBURGH PLATE GLASS COMPANY r\u00e9sidant aux \u00c9tats-Unis d'Am\u00e9rique.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          113.3056640625,
+          216.68566340160285
+        ],
+        [
+          547.7896725440806,
+          218.92822265625
+        ],
+        [
+          547.7896725440806,
+          234.68032056990205
+        ],
+        [
+          113.3056640625,
+          231.26220703125
+        ]
+      ]
+    },
+    {
+      "title": "[1.247.560]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          98.1982421875,
+          67.47996438112199
+        ],
+        [
+          153.9794921875,
+          67.47996438112199
+        ],
+        [
+          153.9794921875,
+          78.73193359375
+        ],
+        [
+          98.1982421875,
+          78.73193359375
+        ]
+      ]
+    },
+    {
+      "title": "[1.247.560]",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          113.450927734375,
+          80.7362060546875
+        ],
+        [
+          166.907958984375,
+          80.7362060546875
+        ],
+        [
+          166.907958984375,
+          93.72217275155832
+        ],
+        [
+          113.450927734375,
+          93.0701904296875
+        ]
+      ]
+    },
+    {
+      "title": "R\u00c9SUM\u00c9",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          415.90050377833757,
+          185.112548828125
+        ],
+        [
+          448.57421875,
+          185.112548828125
+        ],
+        [
+          448.57421875,
+          194.979736328125
+        ],
+        [
+          415.90050377833757,
+          194.979736328125
+        ]
+      ]
+    },
+    {
+      "title": "La pr\u00e9sente invention a pour objet :",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          336.46725440806046,
+          205.43900267141584
+        ],
+        [
+          480.3463476070529,
+          209.06103515625
+        ],
+        [
+          480.3463476070529,
+          219.6847729296527
+        ],
+        [
+          336.46725440806046,
+          218.92822265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          135
+        ],
+        [
+          "Span",
+          94
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          91
+        ],
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          129
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FR_1247560_A"
+}

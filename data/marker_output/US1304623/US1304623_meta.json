@@ -1,0 +1,290 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNITED STATES PATENT OFFICE.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.96635262449529,
+          100.4692942254812
+        ],
+        [
+          444.947265625,
+          104.44677734375
+        ],
+        [
+          444.947265625,
+          124.46196150320806
+        ],
+        [
+          74.96635262449529,
+          124.01806640625
+        ]
+      ]
+    },
+    {
+      "title": "GLASS.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          235.5283203125,
+          164.19981668194316
+        ],
+        [
+          280.67578125,
+          164.19981668194316
+        ],
+        [
+          280.67578125,
+          175.3427734375
+        ],
+        [
+          235.5283203125,
+          175.3427734375
+        ]
+      ]
+    },
+    {
+      "title": "1,304,623.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.074462890625,
+          185.94317140238314
+        ],
+        [
+          113.548583984375,
+          185.94317140238314
+        ],
+        [
+          113.548583984375,
+          195.11376953125
+        ],
+        [
+          55.074462890625,
+          195.11376953125
+        ]
+      ]
+    },
+    {
+      "title": "To all whom it may concern:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.226110363391655,
+          230.17965169569203
+        ],
+        [
+          180.66890982503367,
+          232.42896425297891
+        ],
+        [
+          180.66890982503367,
+          241.42621448212648
+        ],
+        [
+          53.226110363391655,
+          240.64697265625
+        ]
+      ]
+    },
+    {
+      "title": "endurance \\left(\\frac{F}{3}\\right), is about 10.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          260.1332436069987,
+          374.8854262144821
+        ],
+        [
+          396.80810546875,
+          379.8427734375
+        ],
+        [
+          396.80810546875,
+          401.12740604949585
+        ],
+        [
+          260.1332436069987,
+          397.017578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          233
+        ],
+        [
+          "Span",
+          120
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/US1304623"
+}

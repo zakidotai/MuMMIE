@@ -1,0 +1,4 @@
+{
+  "answer": "[{'V2O5': 60, 'P2O5': 20, 'TeO2': 10, 'Fe2O3': 5, 'MnO2': 5}, {'resistivity': [{'value': 10000000.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': ''}, {'value': 10000000.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': 'temperature cycling test'}], 'thermal_expansion': [{'value': 307, 'unit': '\u00b0C', 'experimental_conditions': ''}]}]",
+  "raw": "[{'V2O5': 60, 'P2O5': 20, 'TeO2': 10, 'Fe2O3': 5, 'MnO2': 5}, {'resistivity': [{'value': 10000000.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': ''}, {'value': 10000000.0, 'unit': '\u03a9\u00b7cm', 'experimental_conditions': 'temperature cycling test'}], 'thermal_expansion': [{'value': 307, 'unit': '\u00b0C', 'experimental_conditions': ''}]}]"
+}
