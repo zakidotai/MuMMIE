@@ -1,0 +1,472 @@
+{
+  "table_of_contents": [
+    {
+      "title": "(19) United States\n(12) Patent Application Publication (10) Pub. No.: US 2006/0166804 A1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.5,
+          51.0
+        ],
+        [
+          527.25,
+          51.0
+        ],
+        [
+          527.25,
+          85.3681640625
+        ],
+        [
+          76.5,
+          85.3681640625
+        ]
+      ]
+    },
+    {
+      "title": "(10) Pub. No.: US 2006/0166804 A1\n(43) Pub. Date: Jul. 27, 2006",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          323.41552734375,
+          72.55810546875
+        ],
+        [
+          529.41650390625,
+          72.55810546875
+        ],
+        [
+          529.41650390625,
+          98.25
+        ],
+        [
+          323.41552734375,
+          98.25
+        ]
+      ]
+    },
+    {
+      "title": "Sprenger et al.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.98876953125,
+          86.25
+        ],
+        [
+          176.722412109375,
+          86.25
+        ],
+        [
+          176.722412109375,
+          98.419921875
+        ],
+        [
+          90.98876953125,
+          98.419921875
+        ]
+      ]
+    },
+    {
+      "title": "(30) Foreign Application Priority Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          309.90234375,
+          118.5
+        ],
+        [
+          506.2939453125,
+          118.5
+        ],
+        [
+          506.2939453125,
+          130.8076171875
+        ],
+        [
+          309.90234375,
+          130.8076171875
+        ]
+      ]
+    },
+    {
+      "title": "Publication Classification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          356.44775390625,
+          153.4306640625
+        ],
+        [
+          493.38134765625,
+          153.4306640625
+        ],
+        [
+          493.38134765625,
+          165.0
+        ],
+        [
+          356.44775390625,
+          165.0
+        ]
+      ]
+    },
+    {
+      "title": "(57) ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.5,
+          225.75
+        ],
+        [
+          446.53564453125,
+          225.75
+        ],
+        [
+          446.53564453125,
+          236.478515625
+        ],
+        [
+          310.5,
+          236.478515625
+        ]
+      ]
+    },
+    {
+      "title": "CRYSTALLISABLE GLASS AND THE USE\nTHEREOF FOR PRODUCING EXTREMELY SOLID\nAND BREAK RESISTANT GLASS-CERAMICS\nHAVING AN EASILY POLISHED SURFACE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.0,
+          106.5
+        ],
+        [
+          295.338134765625,
+          106.5
+        ],
+        [
+          295.338134765625,
+          145.5
+        ],
+        [
+          78.0,
+          145.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          17
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          166
+        ],
+        [
+          "Span",
+          106
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          162
+        ],
+        [
+          "Span",
+          111
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          143
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "TextInlineMath",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/US20060166804A1"
+}

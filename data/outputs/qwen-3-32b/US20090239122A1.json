@@ -1,0 +1,4 @@
+{
+  "answer": "[{'SiO2': 40, 'Al2O3': 10, 'SrO': 25, 'ZnO': 25}, {'glass_transition_temperature': [{'value': 716, 'unit': '\u00b0C', 'experimental_conditions': ''}, {'value': 775, 'unit': '\u00b0C', 'experimental_conditions': 'softening'}], 'thermal_expansion': [{'value': 79, 'unit': '1e-7 / \u00b0C', 'experimental_conditions': '100-600\u00b0C'}, {'value': 70, 'unit': '1e-7 / \u00b0C', 'experimental_conditions': 'RT-700\u00b0C'}]}]",
+  "raw": "[{'SiO2': 40, 'Al2O3': 10, 'SrO': 25, 'ZnO': 25}, {'glass_transition_temperature': [{'value': 716, 'unit': '\u00b0C', 'experimental_conditions': ''}, {'value': 775, 'unit': '\u00b0C', 'experimental_conditions': 'softening'}], 'thermal_expansion': [{'value': 79, 'unit': '1e-7 / \u00b0C', 'experimental_conditions': '100-600\u00b0C'}, {'value': 70, 'unit': '1e-7 / \u00b0C', 'experimental_conditions': 'RT-700\u00b0C'}]}]"
+}
